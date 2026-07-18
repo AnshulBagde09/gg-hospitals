@@ -6,12 +6,6 @@ The project helps hospitals manage patients, appointments, doctors, billing, inv
 
 ---
 
-## 📸 Preview
-
-> Dashboard preview coming soon...
-
----
-
 ## ✨ Features
 
 ### ✅ Completed
